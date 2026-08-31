@@ -1,0 +1,22 @@
+{
+  "title": "Synthetic service metrics",
+  "language": "en",
+  "value_label": "Request volume",
+  "scale": 1000,
+  "unit": "k",
+  "current_period": {"start": "2026-08-24", "end": "2026-08-30"},
+  "previous_period": {"start": "2026-08-17", "end": "2026-08-23"},
+  "metrics": [
+    {
+      "name": "Image processing",
+      "current_value": 1512200,
+      "previous_value": 1501600,
+      "success_rate": 99.9
+    },
+    {
+      "name": "Documents",
+      "current_value": 1500,
+      "success_rate": 98.47
+    }
+  ]
+}

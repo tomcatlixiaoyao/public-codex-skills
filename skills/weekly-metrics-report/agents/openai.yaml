@@ -1,0 +1,4 @@
+interface:
+  display_name: "Weekly Metrics Report"
+  short_description: "Generate weekly metric comparisons and report drafts."
+  default_prompt: "Use $weekly-metrics-report to compare two reporting periods and draft an evidence-based weekly metrics update."
