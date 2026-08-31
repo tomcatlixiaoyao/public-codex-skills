@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Source Solution Research"
+  short_description: "Research and compare open-source solutions before building."
+  default_prompt: "Use $open-source-solution-research to research open-source options for this requirement and recommend whether to adopt, adapt, or build."
